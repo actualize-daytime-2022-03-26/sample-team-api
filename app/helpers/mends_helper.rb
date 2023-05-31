@@ -1,0 +1,2 @@
+module MendsHelper
+end
