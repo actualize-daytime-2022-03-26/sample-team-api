@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   # root "articles#index"
   get "/pages" => "pages#index"
   get "/elis" => "eli#index"
+
+  get "/examples" => "examples#index"
 end
